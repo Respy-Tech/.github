@@ -1,12 +1,19 @@
-## Hi there 👋
+<h1 align="center">✨ Respy.Tech</h1>
 
-<!--
+<p align="center" style="font-size: 18px; font-style: italic; color: #666;">
+  Respire's Playground, Dumping everything or anything.
+</p>
 
-**Here are some ideas to get you started:**
+<p align="center">
+  <img src="https://files.catbox.moe/vdpdyn.jpg" alt="Alt text">
+</p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="center" style="font-size: 20px;">
+  <span style="margin: 0 10px;">
+    🌐 <strong>Website</strong>: <a href="https://respy.tech">https://respy.tech</a>
+  </span>
+  <span style="margin: 0 10px;">|</span>
+  <span style="margin: 0 10px;">
+    ✉️ <strong>Contact</strong>: <a href="mailto:contact@respy.tech">contact@respy.tech</a>
+  </span>
+</p>
